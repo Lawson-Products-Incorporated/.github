@@ -13,7 +13,7 @@ Key implementation notes; flags; migrations.
 - [ ] Performance
 - [ ] UX
 
-**Mitigations / Roll-back plan:** …
+**Mitigations / Roll-back plan:**
 
 ### Impact
 - Infra changes? (migrations, AWS resources, config)
