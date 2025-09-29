@@ -22,7 +22,6 @@ Key implementation notes; flags; migrations.
 
 ### Testing
 Scenarios validated locally or in Stage:
-- …
 
 ### Screenshots / Demos
 Desktop, mobile, dark mode; before/after.
