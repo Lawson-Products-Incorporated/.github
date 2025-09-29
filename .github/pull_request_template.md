@@ -12,7 +12,17 @@ Key implementation notes; flags; migrations.
 - [ ] Security
 - [ ] Performance
 - [ ] UX
-Mitigations & roll-back plan.
+
+**Mitigations / Roll-back plan:** …
+
+### Impact
+- Infra changes? (migrations, AWS resources, config)
+- External dependencies? (APIs, libraries)
+- Monitoring/alerting updates needed?
+
+### Testing
+Scenarios validated locally or in Stage:
+- …
 
 ### Screenshots / Demos
 Desktop, mobile, dark mode; before/after.
@@ -23,3 +33,4 @@ Desktop, mobile, dark mode; before/after.
 - [ ] No secrets committed
 - [ ] CI green & Kiuwan scan reviewed
 - [ ] Owner for rollout/monitoring
+- [ ] Accessibility reviewed (if UI)
