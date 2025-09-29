@@ -1,24 +1,25 @@
-## Summary
-- What changed and why?
+### What
+Short summary of the change.
 
-## Screenshots / Demos (Dev/Stage)
-<!-- add before/after or theme preview URL -->
+### Why
+Problem / context / tradeoffs.
 
-## Risks & Rollback
-- Risks:
-- Rollback plan:
+### How
+Key implementation notes; flags; migrations.
 
-## Testing
-- [ ] Unit
-- [ ] Integration
-- [ ] E2E / Manual QA
-Notes:
+### Risks
+- [ ] Data loss
+- [ ] Security
+- [ ] Performance
+- [ ] UX
+Mitigations & roll-back plan.
 
-## Security
-- Kiuwan results: (no new High/Critical)
-- Secrets review: (N/A/Done)
+### Screenshots / Demos
+Desktop, mobile, dark mode; before/after.
 
-## Checklist
+### Checklist
+- [ ] Tests added/updated
 - [ ] Docs updated
-- [ ] Feature flags/metafields configured
-- [ ] Alerts/metrics covered
+- [ ] No secrets committed
+- [ ] CI green & Kiuwan scan reviewed
+- [ ] Owner for rollout/monitoring
